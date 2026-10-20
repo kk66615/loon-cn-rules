@@ -1,0 +1,45 @@
+name: Build rules
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 北京时间 06:00
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "custom/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-rules
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Test
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Build
+        run: python3 scripts/build.py
+
+      - name: Commit dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          if git diff --cached --quiet; then
+            echo "dist unchanged"
+            exit 0
+          fi
+          git commit -m "chore(dist): update rules $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push

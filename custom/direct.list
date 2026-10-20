@@ -1,0 +1,24 @@
+# 自定义直连规则，构建时合并进 dist/CN_Domain.list
+# 写法：
+#   example.com                  等同 DOMAIN-SUFFIX，匹配域名本身和所有子域名
+#   DOMAIN-SUFFIX,example.com    同上
+#   DOMAIN,api.example.com       只匹配这一个完整域名
+#   DOMAIN-KEYWORD,xxx / USER-AGENT,xxx      原样保留，放在输出文件最前面
+#   IP-CIDR,1.2.3.0/24,no-resolve           IP 规则必须带 no-resolve，否则会触发本地 DNS 解析
+#   不要写策略名（如 ,DIRECT），写错的行会让构建失败
+# 上游列表一般已经包含下面这些，这里显式列出作为保底
+
+# 腾讯
+qq.com
+wechat.com
+tencent.com
+
+# 阿里
+taobao.com
+tmall.com
+alipay.com
+alicdn.com
+dingtalk.com
+
+# 京东
+jd.com
