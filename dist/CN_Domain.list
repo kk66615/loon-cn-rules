@@ -1,7 +1,7 @@
 # NAME: CN_Domain
 # REPO: https://github.com/kk66615/loon-cn-rules
 # DOMAIN-SUFFIX: 111863
-# DOMAIN: 540
+# DOMAIN: 476
 # CUSTOM-EXTRA: 0
 # SOURCE: Loyalsoldier/v2ray-rules-dat direct-list https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
 # SOURCE: blackmatrix7 ChinaMaxNoMedia_Domain https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list
@@ -111876,7 +111876,6 @@ DOMAIN,1hdru-hls-otcnet.cdnvideo.ru
 DOMAIN,22283.live.streamtheworld.com
 DOMAIN,22393.live.streamtheworld.com
 DOMAIN,2mdn-cn.net
-DOMAIN,2mdn.net
 DOMAIN,59ec5453559f0.streamlock.net
 DOMAIN,5c3639aa99149.streamlock.net
 DOMAIN,6.mms.vlog.xuite.net
@@ -111887,7 +111886,6 @@ DOMAIN,activation-v2.kaspersky.com
 DOMAIN,adcdownload.apple.com
 DOMAIN,adcdownload.apple.com.akadns.net
 DOMAIN,admob-cn.com
-DOMAIN,adservice.google.com
 DOMAIN,aka-amd-njpwworld-hls-enlive.akamaized.net
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 DOMAIN,aljazeera-eng-hd-live.hls.adaptive.level3.net
@@ -111913,7 +111911,6 @@ DOMAIN,api-edge.apps.apple.com
 DOMAIN,api.blipsandchitz.me
 DOMAIN,app-analytics-services.com
 DOMAIN,app-measurement-cn.com
-DOMAIN,app-measurement.com
 DOMAIN,app-site-association.cdn-apple.com
 DOMAIN,appldnld.apple.com
 DOMAIN,appleid.cdn-apple.com
@@ -111921,21 +111918,13 @@ DOMAIN,apps5.oingo.com
 DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,as-hls-ww-live.akamaized.net
 DOMAIN,astro1.rastream.com
-DOMAIN,avail.googleflights.net
 DOMAIN,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN,bag.itunes.apple.com
 DOMAIN,bbstv.clouducs.com
-DOMAIN,beacons.gcp.gvt2.com
-DOMAIN,beacons.gvt2.com
-DOMAIN,beacons2.gvt2.com
-DOMAIN,beacons3.gvt2.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,bookkeeper.itunes.apple.com
 DOMAIN,c.admob.com
-DOMAIN,c.android.clients.google.com
 DOMAIN,c.pki.goog
-DOMAIN,cache-management-prod.google.com
-DOMAIN,cache.pack.google.com
 DOMAIN,cast.news98.com.tw
 DOMAIN,cast.uforadio.com.tw
 DOMAIN,cbsnewshd-lh.akamaihd.net
@@ -111962,7 +111951,6 @@ DOMAIN,certs.apple.com
 DOMAIN,cgntv-glive.ofsdelivery.net
 DOMAIN,channellive.leshantv.net
 DOMAIN,chaoan.chaoantv.com
-DOMAIN,checkin.gstatic.com
 DOMAIN,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN,cl1.apple.com
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
@@ -111978,12 +111966,10 @@ DOMAIN,cl5-cdn.origin-apple.com.akadns.net
 DOMAIN,cl5.apple.com
 DOMAIN,clickserve.cc-dt.com
 DOMAIN,clickserve.dartsearch.net
-DOMAIN,clickserver.googleads.com
 DOMAIN,client-api.itunes.apple.com
 DOMAIN,client.amplifi.com
 DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
-DOMAIN,clientservices.googleapis.com
 DOMAIN,cma.itunes.apple.com
 DOMAIN,cn-smp-paymentservices.apple.com
 DOMAIN,cn.download.nvidia.com
@@ -111992,13 +111978,10 @@ DOMAIN,cn.windowssearch.com
 DOMAIN,communities.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
 DOMAIN,crl.pki.goog
 DOMAIN,crls.pki.goog
-DOMAIN,csi.gstatic.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
 DOMAIN,d9af5a60.edmonst.net
@@ -112008,17 +111991,11 @@ DOMAIN,dejavu.apple.com
 DOMAIN,developer.microsoft.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,devstreaming-cdn.apple.com
-DOMAIN,dg-meta.video.google.com
 DOMAIN,discussionschinese.apple.com
-DOMAIN,dl.google.com
-DOMAIN,dl.l.google.com
 DOMAIN,doubleclick-cn.net
-DOMAIN,doubleclick.net
 DOMAIN,download.developer.apple.com
 DOMAIN,download.jetbrains.com
 DOMAIN,download.microsoft.com
-DOMAIN,download.mlcc.google.com
-DOMAIN,download.tensorflow.google.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,e1.vdowowza.vip.hk1.tvb.com
 DOMAIN,edge.music-choice-play-chaina1.top.comcast.net
@@ -112031,26 +112008,16 @@ DOMAIN,fash1043.cloudycdn.services
 DOMAIN,fides-pol.apple.com
 DOMAIN,file.hhtv.cc
 DOMAIN,file.mb.leshantv.net
-DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,fm901.cityfm.tw
 DOMAIN,fm929.cityfm.tw
 DOMAIN,fm971.cityfm.tw
 DOMAIN,fm983.cityfm.tw
-DOMAIN,fontfiles.googleapis.com
-DOMAIN,fonts.googleapis.com
-DOMAIN,fonts.gstatic.com
 DOMAIN,fpinit.itunes.apple.com
-DOMAIN,g0.gstatic.com
-DOMAIN,g1.gstatic.com
-DOMAIN,g2.gstatic.com
-DOMAIN,g3.gstatic.com
 DOMAIN,gayotv.net
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
 DOMAIN,google-analytics-cn.com
-DOMAIN,google-analytics.com
 DOMAIN,googleadservices-cn.com
-DOMAIN,googleadservices.com
 DOMAIN,googleanalytics.com
 DOMAIN,googleapis-cn.com
 DOMAIN,googleapps-cn.com
@@ -112058,11 +112025,8 @@ DOMAIN,googleflights-cn.net
 DOMAIN,googleoptimize-cn.com
 DOMAIN,googleoptimize.com
 DOMAIN,googlesyndication-cn.com
-DOMAIN,googlesyndication.com
 DOMAIN,googletagmanager-cn.com
-DOMAIN,googletagmanager.com
 DOMAIN,googletagservices-cn.com
-DOMAIN,googletagservices.com
 DOMAIN,googletraveladservices-cn.com
 DOMAIN,googletraveladservices.com
 DOMAIN,googlevads-cn.com
@@ -112089,7 +112053,6 @@ DOMAIN,gspe35-ssl.ls.apple.com
 DOMAIN,gspe79-cn-ssl.ls.apple.com
 DOMAIN,gspe85-cn-ssl.ls.apple.com
 DOMAIN,gstatic-cn.com
-DOMAIN,gstaticadssl.l.google.com
 DOMAIN,gtm.oasisfeng.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,guzzoni.smoot.apple.com
@@ -112108,7 +112071,6 @@ DOMAIN,icecast-ruvr.cdnvideo.ru
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
-DOMAIN,imasdk.googleapis.com
 DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
 DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
 DOMAIN,inappcheck.itunes.apple.com
@@ -112228,13 +112190,10 @@ DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.apple.com
 DOMAIN,ott-live.olympicchannel.com
-DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,pancake.apple.com
 DOMAIN,pba0.apple.com
 DOMAIN,pd-nk.itunes.apple.com
 DOMAIN,pd.itunes.apple.com
-DOMAIN,performanceparameters.googleapis.com
-DOMAIN,pki-goog.l.google.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,play.itunes.apple.com
 DOMAIN,play.jinnantv.top
@@ -112250,20 +112209,10 @@ DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod-support.apple-support.akadns.net
 DOMAIN,prod.databe.floonet.goog
 DOMAIN,publicassets.cdn-apple.com
-DOMAIN,qpx.googleflights.net
 DOMAIN,qqlivepull.seedata.top
 DOMAIN,recaptcha-cn.net
-DOMAIN,recaptcha.net
 DOMAIN,redirector.bdn.dev
-DOMAIN,redirector.c.chat.google.com
-DOMAIN,redirector.c.mail.google.com
-DOMAIN,redirector.c.pack.google.com
-DOMAIN,redirector.c.play.google.com
 DOMAIN,redirector.c.youtubeeducation.com
-DOMAIN,redirector.gcpcdn.gvt1.com
-DOMAIN,redirector.gvt1.com
-DOMAIN,redirector.offline-maps.gvt1.com
-DOMAIN,redirector.snap.gvt1.com
 DOMAIN,redirector.xn--ngstr-lra8j.com
 DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,rfcmedia.streamguys1.com
@@ -112272,8 +112221,6 @@ DOMAIN,rmtv24hweblive-lh.akamaihd.net
 DOMAIN,rthklive1-lh.akamaihd.net
 DOMAIN,rthklive2-lh.akamaihd.net
 DOMAIN,rtvcdn.com.au
-DOMAIN,safebrowsing-cache.google.com
-DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 DOMAIN,se-edge.itunes.apple.com
 DOMAIN,se2.itunes.apple.com
@@ -112293,8 +112240,6 @@ DOMAIN,smp-device-content.apple.com
 DOMAIN,sms.imagetasks.com
 DOMAIN,sp.itunes.apple.com
 DOMAIN,speedysub.music.apple.com
-DOMAIN,ssl-google-analytics.l.google.com
-DOMAIN,ssl.gstatic.com
 DOMAIN,staging-controlbe.floonet.goog
 DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
@@ -112343,14 +112288,12 @@ DOMAIN,swscan-cdn.apple.com.akadns.net
 DOMAIN,swscan.apple.com
 DOMAIN,sylvan.apple.com
 DOMAIN,sync.itunes.apple.com
-DOMAIN,tac.googleapis.com
 DOMAIN,tf-feedback.itunes.apple.com
 DOMAIN,time.xtracloud.net
 DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,tj-pod2-smp-device.apple.com
 DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN,tl.gscm.tv
-DOMAIN,tools.google.com
 DOMAIN,trtcanlitv-lh.akamaihd.net
 DOMAIN,tv.cnbeijing.xyz
 DOMAIN,tv.drs.hhtv.cc
@@ -112358,8 +112301,6 @@ DOMAIN,tv.jrsncn.com
 DOMAIN,tv.nknews.org
 DOMAIN,uni6rtmp.tulix.tv
 DOMAIN,universal-activity-service.itunes.apple.com
-DOMAIN,update.crashlytics.com
-DOMAIN,update.googleapis.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com
@@ -112372,7 +112313,6 @@ DOMAIN,voa-lh.akamaihd.net
 DOMAIN,vss.cbnmtv.com
 DOMAIN,w3.wifijiangyin.com
 DOMAIN,wcnc-lh.akamaihd.net
-DOMAIN,wear.googleapis.com
 DOMAIN,weather-data.apple.com
 DOMAIN,weather-data.apple.com.akadns.net
 DOMAIN,weather-lh.akamaihd.net
@@ -112385,18 +112325,14 @@ DOMAIN,wowza.montevideo.com.uy
 DOMAIN,wowza.ner.gov.tw
 DOMAIN,wpc.124ce.sigmacdn.net
 DOMAIN,wuwm.streamguys1.com
-DOMAIN,www-google-analytics.l.google.com
-DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,www.cbsnews.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.filmon.com
-DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
 DOMAIN,www.pxitv.com
 DOMAIN,www.recaptcha-cn.net
-DOMAIN,www.recaptcha.net
 DOMAIN,www.soundvideostar.com
 DOMAIN,www.support.apple.com
 DOMAIN,www.szmgiptv.com

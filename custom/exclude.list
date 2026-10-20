@@ -1,3 +1,23 @@
 # 从上游列表中剔除的域名（连同其所有子域名），每行一个
 # 注意：如果某个域名还被更上级的后缀覆盖（例如 DOMAIN-SUFFIX,cn），剔除无效，
 # 构建日志会给出 warning，这种情况请在 Loon 的 [Rule] 里为它写一条代理规则（本地规则优先于远程规则）
+
+# Google 系：上游把它们当作“国内可直连”，前提是用国内 DNS 解析到 Google 国内缓存节点；
+# 本仓库推荐境外 DNS，解析出的是被墙的 IP，直连会失败（例如 ssl.gstatic.com 导致 Google 登录一直转圈），所以统一剔除走代理
+google.com
+gstatic.com
+googleapis.com
+gvt1.com
+gvt2.com
+recaptcha.net
+googleflights.net
+crashlytics.com
+googletagservices.com
+googletagmanager.com
+googlesyndication.com
+googleadservices.com
+googleads.com
+google-analytics.com
+doubleclick.net
+app-measurement.com
+2mdn.net
