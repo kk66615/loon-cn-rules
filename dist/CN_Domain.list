@@ -1,7 +1,7 @@
 # NAME: CN_Domain
 # REPO: https://github.com/kk66615/loon-cn-rules
-# DOMAIN-SUFFIX: 111588
-# DOMAIN: 477
+# DOMAIN-SUFFIX: 111586
+# DOMAIN: 479
 # CUSTOM-EXTRA: 0
 # SOURCE: Loyalsoldier/v2ray-rules-dat direct-list https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
 # SOURCE: blackmatrix7 ChinaMaxNoMedia_Domain https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list
@@ -62010,8 +62010,6 @@ DOMAIN-SUFFIX,long7.com
 DOMAIN-SUFFIX,longanlaw.com
 DOMAIN-SUFFIX,longau.com
 DOMAIN-SUFFIX,longbenren.com
-DOMAIN-SUFFIX,longbridgeapp.com
-DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longcai.com
 DOMAIN-SUFFIX,longcai027.com
 DOMAIN-SUFFIX,longcat.chat
@@ -111958,7 +111956,9 @@ DOMAIN,seed.siri.apple.com
 DOMAIN,sequoia.apple.com
 DOMAIN,service.urchin.com
 DOMAIN,sf-api-token-service.itunes.apple.com
+DOMAIN,sh-pod1-smp-device.apple.com
 DOMAIN,sh-pod2-smp-device.apple.com
+DOMAIN,sh-pod3-smp-device.apple.com
 DOMAIN,shazam-insights.cdn-apple.com
 DOMAIN,shell.cdn.office.net
 DOMAIN,slive.ytn.co.kr
