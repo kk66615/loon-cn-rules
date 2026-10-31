@@ -1,6 +1,6 @@
 # NAME: CN_Domain
 # REPO: https://github.com/kk66615/loon-cn-rules
-# DOMAIN-SUFFIX: 111903
+# DOMAIN-SUFFIX: 111899
 # DOMAIN: 479
 # CUSTOM-EXTRA: 0
 # SOURCE: Loyalsoldier/v2ray-rules-dat direct-list https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
@@ -4383,7 +4383,6 @@ DOMAIN-SUFFIX,3wfocus.com
 DOMAIN-SUFFIX,3wft.com
 DOMAIN-SUFFIX,3wka.com
 DOMAIN-SUFFIX,3wmm.com
-DOMAIN-SUFFIX,3wtuan.com
 DOMAIN-SUFFIX,3wyk.com
 DOMAIN-SUFFIX,3x6gr4f829.com
 DOMAIN-SUFFIX,3x7.com
@@ -8656,6 +8655,7 @@ DOMAIN-SUFFIX,92gyw.com
 DOMAIN-SUFFIX,92hidc.net
 DOMAIN-SUFFIX,92kaifa.com
 DOMAIN-SUFFIX,92kk.com
+DOMAIN-SUFFIX,92kun.com
 DOMAIN-SUFFIX,92le.com
 DOMAIN-SUFFIX,92lm.com
 DOMAIN-SUFFIX,92lucky.com
@@ -11606,7 +11606,6 @@ DOMAIN-SUFFIX,amishii.com
 DOMAIN-SUFFIX,amiyabot.com
 DOMAIN-SUFFIX,amo-solar.com
 DOMAIN-SUFFIX,amo9.com
-DOMAIN-SUFFIX,amobbs.com
 DOMAIN-SUFFIX,amoe.cc
 DOMAIN-SUFFIX,amonxu.com
 DOMAIN-SUFFIX,amoydxmed.com
@@ -18537,6 +18536,7 @@ DOMAIN-SUFFIX,capvision.com
 DOMAIN-SUFFIX,capwhale.com
 DOMAIN-SUFFIX,caqzlsgs.com
 DOMAIN-SUFFIX,car-metaverse.com
+DOMAIN-SUFFIX,car-vacation.com
 DOMAIN-SUFFIX,car0575.com
 DOMAIN-SUFFIX,car2sharechina.com
 DOMAIN-SUFFIX,car369.com
@@ -28232,7 +28232,6 @@ DOMAIN-SUFFIX,dfhog.com
 DOMAIN-SUFFIX,dfhon.com
 DOMAIN-SUFFIX,dfhr.com
 DOMAIN-SUFFIX,dfhrc.com
-DOMAIN-SUFFIX,dfi09181kq.com
 DOMAIN-SUFFIX,dfig0.com
 DOMAIN-SUFFIX,dfine.tech
 DOMAIN-SUFFIX,dfjxc.com
@@ -48647,6 +48646,7 @@ DOMAIN-SUFFIX,hxledu.com
 DOMAIN-SUFFIX,hxlhjt.com
 DOMAIN-SUFFIX,hxljjt.com
 DOMAIN-SUFFIX,hxlot.com
+DOMAIN-SUFFIX,hxlove22s.cc
 DOMAIN-SUFFIX,hxlsw.com
 DOMAIN-SUFFIX,hxltcj.com
 DOMAIN-SUFFIX,hxlxx.com
@@ -58736,6 +58736,7 @@ DOMAIN-SUFFIX,ktvsky.com
 DOMAIN-SUFFIX,ktwap.net
 DOMAIN-SUFFIX,ktxuexi.com
 DOMAIN-SUFFIX,ktyunlianjie.com
+DOMAIN-SUFFIX,ktzgame.com
 DOMAIN-SUFFIX,ku25.com
 DOMAIN-SUFFIX,ku33a.net
 DOMAIN-SUFFIX,ku6.com
@@ -65775,7 +65776,6 @@ DOMAIN-SUFFIX,mingyu-porcelain.com
 DOMAIN-SUFFIX,mingyuanfund.com
 DOMAIN-SUFFIX,mingyuanmuye.com
 DOMAIN-SUFFIX,mingyuanyun.com
-DOMAIN-SUFFIX,mingyueqingfengshe.com
 DOMAIN-SUFFIX,mingyuhan.net
 DOMAIN-SUFFIX,mingzhi-tech.com
 DOMAIN-SUFFIX,mingzhucable.com
@@ -68372,7 +68372,6 @@ DOMAIN-SUFFIX,newaircloud.com
 DOMAIN-SUFFIX,newamigo.net
 DOMAIN-SUFFIX,newamstar.com
 DOMAIN-SUFFIX,newansha.com
-DOMAIN-SUFFIX,newapi.com
 DOMAIN-SUFFIX,newaq.com
 DOMAIN-SUFFIX,newasiaman.com
 DOMAIN-SUFFIX,newasp.com
@@ -74573,7 +74572,6 @@ DOMAIN-SUFFIX,qidong.name
 DOMAIN-SUFFIX,qidongcha.com
 DOMAIN-SUFFIX,qidongnews.com
 DOMAIN-SUFFIX,qidongyx.com
-DOMAIN-SUFFIX,qidou.com
 DOMAIN-SUFFIX,qidulp.com
 DOMAIN-SUFFIX,qiduo.net
 DOMAIN-SUFFIX,qie.tv
@@ -86883,7 +86881,6 @@ DOMAIN-SUFFIX,szytop.com
 DOMAIN-SUFFIX,szyuda88.com
 DOMAIN-SUFFIX,szyundingschool.com
 DOMAIN-SUFFIX,szyuxin.com
-DOMAIN-SUFFIX,szyweibo.com
 DOMAIN-SUFFIX,szyxue.com
 DOMAIN-SUFFIX,szyxwdz.com
 DOMAIN-SUFFIX,szyxwkj.com
@@ -98581,7 +98578,6 @@ DOMAIN-SUFFIX,xiaa.net
 DOMAIN-SUFFIX,xiabingbao.com
 DOMAIN-SUFFIX,xiabor.com
 DOMAIN-SUFFIX,xiabu.com
-DOMAIN-SUFFIX,xiacai.com
 DOMAIN-SUFFIX,xiachuan.net
 DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,xiadaolieche.com
