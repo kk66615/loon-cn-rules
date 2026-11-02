@@ -1,6 +1,6 @@
 # NAME: CN_Domain
 # REPO: https://github.com/kk66615/loon-cn-rules
-# DOMAIN-SUFFIX: 111899
+# DOMAIN-SUFFIX: 111902
 # DOMAIN: 479
 # CUSTOM-EXTRA: 0
 # SOURCE: Loyalsoldier/v2ray-rules-dat direct-list https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
@@ -17578,6 +17578,7 @@ DOMAIN-SUFFIX,busnc.com
 DOMAIN-SUFFIX,bustoprint.com
 DOMAIN-SUFFIX,bustruckexpo.com
 DOMAIN-SUFFIX,busuanzi.cc
+DOMAIN-SUFFIX,busyming.com
 DOMAIN-SUFFIX,but7.com
 DOMAIN-SUFFIX,butair.com
 DOMAIN-SUFFIX,butao.com
@@ -29777,6 +29778,7 @@ DOMAIN-SUFFIX,doubaninfo.com
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaoapps.com
 DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,doubaozhidao.com
 DOMAIN-SUFFIX,doubean.com
@@ -111631,6 +111633,7 @@ DOMAIN-SUFFIX,zylianto.com
 DOMAIN-SUFFIX,zymc1.com
 DOMAIN-SUFFIX,zymkcdn.com
 DOMAIN-SUFFIX,zymkshop.com
+DOMAIN-SUFFIX,zymls.com
 DOMAIN-SUFFIX,zyms8.me
 DOMAIN-SUFFIX,zyoffice.com
 DOMAIN-SUFFIX,zyoo.net
