@@ -1,7 +1,7 @@
 # NAME: CN_Domain
 # REPO: https://github.com/kk66615/loon-cn-rules
-# DOMAIN-SUFFIX: 111902
-# DOMAIN: 479
+# DOMAIN-SUFFIX: 111910
+# DOMAIN: 480
 # CUSTOM-EXTRA: 0
 # SOURCE: Loyalsoldier/v2ray-rules-dat direct-list https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
 # SOURCE: blackmatrix7 ChinaMaxNoMedia_Domain https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list
@@ -17334,6 +17334,7 @@ DOMAIN-SUFFIX,bsdfyyls.com
 DOMAIN-SUFFIX,bsdongxin.com
 DOMAIN-SUFFIX,bsdt1688.com
 DOMAIN-SUFFIX,bsehk.com
+DOMAIN-SUFFIX,bseinfo.net
 DOMAIN-SUFFIX,bseqp.com
 DOMAIN-SUFFIX,bserc.com
 DOMAIN-SUFFIX,bsgcnc.com
@@ -62962,6 +62963,7 @@ DOMAIN-SUFFIX,luyecanyin.com
 DOMAIN-SUFFIX,luyinla.com
 DOMAIN-SUFFIX,luyinzhushou.com
 DOMAIN-SUFFIX,luyitong.com
+DOMAIN-SUFFIX,luyong.com
 DOMAIN-SUFFIX,luyor.net
 DOMAIN-SUFFIX,luyouqi.com
 DOMAIN-SUFFIX,luyouwang.com
@@ -79961,6 +79963,7 @@ DOMAIN-SUFFIX,senpian.com
 DOMAIN-SUFFIX,senra.me
 DOMAIN-SUFFIX,sense-hk.com
 DOMAIN-SUFFIX,senseagro.com
+DOMAIN-SUFFIX,senseavatar.com
 DOMAIN-SUFFIX,senselock.com
 DOMAIN-SUFFIX,senseluxury.com
 DOMAIN-SUFFIX,senser.group
@@ -82226,6 +82229,7 @@ DOMAIN-SUFFIX,shutonginfo.com
 DOMAIN-SUFFIX,shutu.cc
 DOMAIN-SUFFIX,shutwin.com
 DOMAIN-SUFFIX,shuwangxing.com
+DOMAIN-SUFFIX,shuwen.com
 DOMAIN-SUFFIX,shuwenxianyun.com
 DOMAIN-SUFFIX,shuwulou.com
 DOMAIN-SUFFIX,shuxiangmuye.com
@@ -88984,6 +88988,7 @@ DOMAIN-SUFFIX,tidejd.com
 DOMAIN-SUFFIX,tidemedia.com
 DOMAIN-SUFFIX,tidepharm.com
 DOMAIN-SUFFIX,tidesec.com
+DOMAIN-SUFFIX,tidesight.com
 DOMAIN-SUFFIX,tideswing.fun
 DOMAIN-SUFFIX,tidi.mobi
 DOMAIN-SUFFIX,tiduyun.com
@@ -92108,6 +92113,7 @@ DOMAIN-SUFFIX,ups88.net
 DOMAIN-SUFFIX,upsapp.com
 DOMAIN-SUFFIX,upseller.com
 DOMAIN-SUFFIX,upskyshanghai.com
+DOMAIN-SUFFIX,upsort.com
 DOMAIN-SUFFIX,upst86.com
 DOMAIN-SUFFIX,uptom.com
 DOMAIN-SUFFIX,uptougu.com
@@ -106149,6 +106155,7 @@ DOMAIN-SUFFIX,yundongfang.com
 DOMAIN-SUFFIX,yundonghao.com
 DOMAIN-SUFFIX,yundongit.com
 DOMAIN-SUFFIX,yundousoft.com
+DOMAIN-SUFFIX,yundouxueyuan.com
 DOMAIN-SUFFIX,yundui.cc
 DOMAIN-SUFFIX,yunduimedia.com
 DOMAIN-SUFFIX,yundun.com
@@ -106821,6 +106828,7 @@ DOMAIN-SUFFIX,yy845.com
 DOMAIN-SUFFIX,yy960.com
 DOMAIN-SUFFIX,yyaotec.com
 DOMAIN-SUFFIX,yyarea.com
+DOMAIN-SUFFIX,yybip.com
 DOMAIN-SUFFIX,yyblly.com
 DOMAIN-SUFFIX,yybnet.net
 DOMAIN-SUFFIX,yybox.cc
@@ -112250,6 +112258,7 @@ DOMAIN,prod-support.apple-support.akadns.net
 DOMAIN,prod.databe.floonet.goog
 DOMAIN,publicassets.cdn-apple.com
 DOMAIN,qqlivepull.seedata.top
+DOMAIN,radio.itunes.apple.com
 DOMAIN,recaptcha-cn.net
 DOMAIN,redirector.bdn.dev
 DOMAIN,redirector.c.youtubeeducation.com
