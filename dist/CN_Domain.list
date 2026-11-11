@@ -1,6 +1,6 @@
 # NAME: CN_Domain
 # REPO: https://github.com/kk66615/loon-cn-rules
-# DOMAIN-SUFFIX: 111910
+# DOMAIN-SUFFIX: 111911
 # DOMAIN: 480
 # CUSTOM-EXTRA: 0
 # SOURCE: Loyalsoldier/v2ray-rules-dat direct-list https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
@@ -68647,6 +68647,7 @@ DOMAIN-SUFFIX,nhzj.com
 DOMAIN-SUFFIX,nhzs.com
 DOMAIN-SUFFIX,ni8.com
 DOMAIN-SUFFIX,ni93.com
+DOMAIN-SUFFIX,nia-teams.com
 DOMAIN-SUFFIX,nianchu.net
 DOMAIN-SUFFIX,nianhuawan.com
 DOMAIN-SUFFIX,niankawang.com
