@@ -1,6 +1,6 @@
 # NAME: CN_Domain
 # REPO: https://github.com/kk66615/loon-cn-rules
-# DOMAIN-SUFFIX: 112009
+# DOMAIN-SUFFIX: 112012
 # DOMAIN: 483
 # CUSTOM-EXTRA: 0
 # SOURCE: Loyalsoldier/v2ray-rules-dat direct-list https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
@@ -60483,6 +60483,7 @@ DOMAIN-SUFFIX,lenovocloudos.com
 DOMAIN-SUFFIX,lenovoconnect.com
 DOMAIN-SUFFIX,lenovoeservice.com
 DOMAIN-SUFFIX,lenovofile.com
+DOMAIN-SUFFIX,lenovofuturecenter.com
 DOMAIN-SUFFIX,lenovogame.com
 DOMAIN-SUFFIX,lenovohci.com
 DOMAIN-SUFFIX,lenovohuishang.com
@@ -75422,6 +75423,7 @@ DOMAIN-SUFFIX,qpjylm.com
 DOMAIN-SUFFIX,qpkaifa.com
 DOMAIN-SUFFIX,qplus.com
 DOMAIN-SUFFIX,qplusstatic.com
+DOMAIN-SUFFIX,qpmcn.com
 DOMAIN-SUFFIX,qpmwg68cre9pci.com
 DOMAIN-SUFFIX,qpoc.com
 DOMAIN-SUFFIX,qpstar.com
@@ -108365,6 +108367,7 @@ DOMAIN-SUFFIX,zhaoketang.com
 DOMAIN-SUFFIX,zhaokuaizhao.com
 DOMAIN-SUFFIX,zhaolaobanla.com
 DOMAIN-SUFFIX,zhaoliangji.com
+DOMAIN-SUFFIX,zhaoliangjipc.com
 DOMAIN-SUFFIX,zhaoliming.net
 DOMAIN-SUFFIX,zhaoming.biz
 DOMAIN-SUFFIX,zhaomishijie.com
